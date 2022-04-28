@@ -8,12 +8,11 @@
             <title>itpedia - Алексей Шевцов</title>
             <link>https://t.me/tgpedia</link>
         </image>
-        <generator>-</generator>
+        <generator>rss</generator>
         <lastBuildDate>Wed, 27 Apr 2022 20:24:27 GMT</lastBuildDate>
         <pubDate>Wed, 27 Apr 2022 20:21:48 GMT</pubDate>
         <copyright><![CDATA[2022 © itpedia]]></copyright>
         <language><![CDATA[ru]]></language>
-        <itunes:type>episodic</itunes:type>
         <itunes:explicit>false</itunes:explicit>
         <itunes:author>Алексей Шевцов</itunes:author>
         <itunes:summary>Записи стримов</itunes:summary>
@@ -35,9 +34,6 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>1897</itunes:duration>
             <itunes:image href="https://imageup.ru/img143/3927852/picture.jpg"/>
-            <itunes:episode>1</itunes:episode>
-            <itunes:season>1</itunes:season>
-            <itunes:episodeType>full</itunes:episodeType>
         </item>
     </channel>
 </rss>
