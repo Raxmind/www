@@ -16,29 +16,25 @@
         <itunes:image href="https://imageup.ru/img143/3927852/picture.jpg"/>
         <item>
             <title><![CDATA[Запись стрима за 28.04.2022 (часть 1)]]></title>
-            <description><![CDATA[-]]></description>
+            <description><![CDATA[720p]]></description>
             <link>https://t.me/tgpedia</link>
             <pubDate>Sat, 30 Apr 2022 08:00:00 GMT</pubDate>
-            <enclosure url="https://v.mover.uz/UGEARz7_h.mp4" length="330362734" type="video/mp4"/>
-            <itunes:title>Выпуск 1</itunes:title>
-            <itunes:summary>Дата</itunes:summary>
-            <content:encoded>Дата</content:encoded>
+            <enclosure url="https://v.mover.uz/UGEARz7_h.mp4" length="378659255" type="video/mp4"/>
+            <itunes:title>Запись стрима за 28.04.2022 (часть 1)</itunes:title>
+            <itunes:summary>720p</itunes:summary>
             <itunes:explicit>false</itunes:explicit>
-            <itunes:duration>1897</itunes:duration>
-            <itunes:image href="https://imageup.ru/img143/3927852/picture.jpg"/>
+            <itunes:duration>8150</itunes:duration>
         </item>
                 <item>
             <title><![CDATA[Запись стрима за 28.04.2022 (часть 2)]]></title>
-            <description><![CDATA[-]]></description>
+            <description><![CDATA[720p]]></description>
             <link>https://t.me/tgpedia</link>
             <pubDate>Sat, 30 Apr 2022 09:00:00 GMT</pubDate>
-            <enclosure url="https://v.mover.uz/B6g0UuUp_h.mp4" length="330362734" type="audio/mpeg"/>
-            <itunes:title>Выпуск 1 - 2</itunes:title>
-            <itunes:summary>Дата</itunes:summary>
-            <content:encoded>Дата</content:encoded>
+            <enclosure url="https://v.mover.uz/B6g0UuUp_h.mp4" length="271075340" type="video/mp4"/>
+            <itunes:title>Запись стрима за 28.04.2022 (часть 2)</itunes:title>
+            <itunes:summary>720p</itunes:summary>
             <itunes:explicit>false</itunes:explicit>
-            <itunes:duration>1897</itunes:duration>
-            <itunes:image href="https://imageup.ru/img143/3927852/picture.jpg"/>
+            <itunes:duration>6234</itunes:duration>
         </item>
     </channel>
 </rss>
