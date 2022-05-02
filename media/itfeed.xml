@@ -50,41 +50,5 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>14521</itunes:duration>
         </item>
-        <item>
-            <title><![CDATA[Тест 1]]></title>
-            <description><![CDATA[mp3]]></description>
-            <link>https://t.me/tgpedia</link>
-            <pubDate>Sat, 30 Apr 2022 10:00:00 +0200</pubDate>
-            <enclosure url="https://files.fm/down.php?i=qumg9yng8" length="232337377" type="audio/mpeg"/>
-            <itunes:title>Тест 1</itunes:title>
-            <itunes:subtitle>mp3</itunes:subtitle>
-            <itunes:summary>Запись стрима</itunes:summary>
-            <itunes:explicit>false</itunes:explicit>
-            <itunes:duration>14521</itunes:duration>
-        </item>
-        <item>
-            <title><![CDATA[Тест 2]]></title>
-            <description><![CDATA[mp3]]></description>
-            <link>https://t.me/tgpedia</link>
-            <pubDate>Sat, 30 Apr 2022 10:00:00 +0200</pubDate>
-            <enclosure url="https://files.fm/down.php?i=n7vp5974c" length="232337377" type="audio/mpeg"/>
-            <itunes:title>Тест 2</itunes:title>
-            <itunes:subtitle>mp3</itunes:subtitle>
-            <itunes:summary>Запись стрима</itunes:summary>
-            <itunes:explicit>false</itunes:explicit>
-            <itunes:duration>14521</itunes:duration>
-        </item>
-        <item>
-            <title><![CDATA[Тест 2-1]]></title>
-            <description><![CDATA[mp3]]></description>
-            <link>https://t.me/tgpedia</link>
-            <pubDate>Sat, 30 Apr 2022 10:00:00 +0200</pubDate>
-            <enclosure url="https://fv9-3.failiem.lv/down.php?i=n7vp5974c" length="232337377" type="audio/mpeg"/>
-            <itunes:title>Тест 2-1</itunes:title>
-            <itunes:subtitle>mp3</itunes:subtitle>
-            <itunes:summary>Запись стрима</itunes:summary>
-            <itunes:explicit>false</itunes:explicit>
-            <itunes:duration>14521</itunes:duration>
-        </item>
     </channel>
 </rss>
