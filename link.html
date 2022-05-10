@@ -1,0 +1,32 @@
+<script type="text/javascript" src="https://www.filesend.jp/_minify/fb19f9415d384d578da59ec1b098ab52b0b3e4e6.js"></script>
+<script type="text/javascript" src="https://www.filesend.jp/_minify/7f5b8ac68f879ca77368f399400b7d4fb3b37362.js"></script>
+
+<script type="text/javascript">
+
+  var itemCode = "PJ5imu";
+	var url = "https://xfl.jp/"+itemCode;
+
+function getLinks(){
+
+    var idItem        = "sara-zcfafn-b66f-fuzn-gd6s-ougk27eq";
+
+   FW.rest("Sara/"+idItem, "GET").done(function(data) {
+
+    for (i in data.data.Files){
+      if(data.data.Files[i].Profile=="risky"){
+        $(".file-"+data.data.Files[i].Sara_File__).attr("href",data.data.Files[i].Download_Url);
+        $(".viewfile-"+data.data.Files[i].Sara_File__).attr("href",data.data.Files[i].View_Url);
+        $(".top-download").attr("href",data.data.Files[i].Download_Url);
+      }else{
+        $(".top-download").attr("href",data.data.Files[i].Download_Url);
+      }
+    }
+
+    }).fail(function(data) {
+          
+    var token_error = data.responseJSON.token;
+
+    });
+}
+
+</script>
