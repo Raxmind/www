@@ -50,5 +50,17 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>14521</itunes:duration>
         </item>
+        <item>
+            <title><![CDATA[Тест]]></title>
+            <description><![CDATA[Тест]]></description>
+            <link>https://t.me/tgpedia</link>
+            <pubDate>Sat, 30 Apr 2022 10:00:00 +0200</pubDate>
+            <enclosure url="https://filetransfer.io/data-package/7IgRDJ0T/download" length="232337377" type="video/mp4"/>
+            <itunes:title>Тест</itunes:title>
+            <itunes:subtitle>Тест</itunes:subtitle>
+            <itunes:summary>Запись стрима</itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>14521</itunes:duration>
+        </item>
     </channel>
 </rss>
