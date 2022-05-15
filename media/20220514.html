@@ -13,7 +13,7 @@
         var hls = new Hls({
           debug: true,
         });
-        hls.loadSource('https://vitaliy.tk/media/20220514.m3u8');
+        hls.loadSource('https://cdn.jwplayer.com/manifests/USkJWCHp.m3u8');
         hls.attachMedia(video);
         hls.on(Hls.Events.MEDIA_ATTACHED, function () {
           video.muted = true;
@@ -21,7 +21,7 @@
         });
       }
       else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-        video.src = 'https://vitaliy.tk/media/20220514.m3u8';
+        video.src = 'https://cdn.jwplayer.com/manifests/USkJWCHp.m3u8';
         video.addEventListener('canplay', function () {
           video.play();
         });
