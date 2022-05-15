@@ -55,7 +55,7 @@
             <description><![CDATA[mp3]]></description>
             <link>https://t.me/tgpedia</link>
             <pubDate>Sat, 30 Apr 2022 10:00:00 +0200</pubDate>
-            <enclosure url="https://cdn.jwplayer.com/manifests/USkJWCHp.m3u8" length="232337377" type="video/mp4"/>
+            <enclosure url="http://cdn.jwplayer.com/videos/USkJWCHp-mhWR43go.mp4" length="232337377" type="video/mp4"/>
             <itunes:title>1080 mp4</itunes:title>
             <itunes:subtitle>mp3</itunes:subtitle>
             <itunes:summary>Запись стрима</itunes:summary>
