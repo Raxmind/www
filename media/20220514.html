@@ -16,14 +16,12 @@
         hls.loadSource('https://cdn.jwplayer.com/manifests/USkJWCHp.m3u8');
         hls.attachMedia(video);
         hls.on(Hls.Events.MEDIA_ATTACHED, function () {
-          video.muted = true;
-          video.play();
+          video.muted = false;
         });
       }
       else if (video.canPlayType('application/vnd.apple.mpegurl')) {
         video.src = 'https://cdn.jwplayer.com/manifests/USkJWCHp.m3u8';
         video.addEventListener('canplay', function () {
-          video.play();
         });
       }
     </script>
