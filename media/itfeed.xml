@@ -15,52 +15,52 @@
         <itunes:summary>Кошерные записи на бобинах для бояр</itunes:summary>
         <itunes:image href="https://imageup.ru/img143/3927852/picture.jpg"/>
         <item>
-            <title><![CDATA[28.04.2022 (часть 1)]]></title>
-            <description><![CDATA[720p]]></description>
+            <title><![CDATA[14.05.2022 (1080p)]]></title>
+            <description><![CDATA[Запись стрима]]></description>
             <link>https://t.me/tgpedia</link>
             <pubDate>Sat, 14 May 2022 10:00:00 +0200</pubDate>
-            <enclosure url="https://v.mover.uz/UGEARz7_h.mp4" length="378659255" type="video/mp4"/>
-            <itunes:title>28.04.2022 (часть 1)</itunes:title>
+            <enclosure url="https://cdn.jwplayer.com/videos/USkJWCHp-mhWR43go.mp4" length="2093796556" type="video/mp4"/>
+            <itunes:title>14.05.2022 (1080p)</itunes:title>
+            <itunes:subtitle>1080p</itunes:subtitle>
+            <itunes:summary>Запись стрима</itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>11279</itunes:duration>
+        </item>
+        <item>
+            <title><![CDATA[14.05.2022 (720p)]]></title>
+            <description><![CDATA[Запись стрима]]></description>
+            <link>https://t.me/tgpedia</link>
+            <pubDate>Sat, 14 May 2022 10:00:00 +0200</pubDate>
+            <enclosure url="https://cdn.jwplayer.com/videos/USkJWCHp-jTMJkaOe.mp4" length="1138166333" type="video/mp4"/>
+            <itunes:title>14.05.2022 (720p)</itunes:title>
             <itunes:subtitle>720p</itunes:subtitle>
             <itunes:summary>Запись стрима</itunes:summary>
             <itunes:explicit>false</itunes:explicit>
-            <itunes:duration>8150</itunes:duration>
+            <itunes:duration>11279</itunes:duration>
         </item>
         <item>
-            <title><![CDATA[28.04.2022 (часть 2)]]></title>
-            <description><![CDATA[720p]]></description>
+            <title><![CDATA[14.05.2022 (360p)]]></title>
+            <description><![CDATA[Запись стрима]]></description>
             <link>https://t.me/tgpedia</link>
             <pubDate>Sat, 14 May 2022 10:00:00 +0200</pubDate>
-            <enclosure url="https://v.mover.uz/B6g0UuUp_h.mp4" length="271075340" type="video/mp4"/>
-            <itunes:title>28.04.2022 (часть 2)</itunes:title>
-            <itunes:subtitle>720p</itunes:subtitle>
+            <enclosure url="https://cdn.jwplayer.com/videos/USkJWCHp-hi2ErKfk.mp4" length="515396075" type="video/mp4"/>
+            <itunes:title>14.05.2022 (360p)</itunes:title>
+            <itunes:subtitle>360p</itunes:subtitle>
             <itunes:summary>Запись стрима</itunes:summary>
             <itunes:explicit>false</itunes:explicit>
-            <itunes:duration>6234</itunes:duration>
+            <itunes:duration>11279</itunes:duration>
         </item>
         <item>
-            <title><![CDATA[28.04.2022 (аудио)]]></title>
-            <description><![CDATA[mp3]]></description>
+            <title><![CDATA[14.05.2022 (аудио)]]></title>
+            <description><![CDATA[Запись стрима]]></description>
             <link>https://t.me/tgpedia</link>
             <pubDate>Sat, 14 May 2022 10:00:00 +0200</pubDate>
-            <enclosure url="https://dl.dropboxusercontent.com/s/xbkguzq8lthfuma/28.04.2022.mp3" length="232337377" type="audio/mpeg"/>
-            <itunes:title>28.04.2022 (аудио)</itunes:title>
-            <itunes:subtitle>mp3</itunes:subtitle>
+            <enclosure url="https://cdn.jwplayer.com/videos/USkJWCHp-vmHWIHGH.m4a" length="176093659" type="audio/m4a"/>
+            <itunes:title>14.05.2022 (аудио)</itunes:title>
+            <itunes:subtitle>аудио</itunes:subtitle>
             <itunes:summary>Запись стрима</itunes:summary>
             <itunes:explicit>false</itunes:explicit>
-            <itunes:duration>14521</itunes:duration>
-        </item>
-      <item>
-            <title><![CDATA[1080 mp4]]></title>
-            <description><![CDATA[mp3]]></description>
-            <link>https://t.me/tgpedia</link>
-            <pubDate>Sat, 14 May 2022 10:00:00 +0200</pubDate>
-            <enclosure url="http://cdn.jwplayer.com/videos/USkJWCHp-mhWR43go.mp4" length="232337377" type="video/mp4"/>
-            <itunes:title>1080 mp4</itunes:title>
-            <itunes:subtitle>mp3</itunes:subtitle>
-            <itunes:summary>Запись стрима</itunes:summary>
-            <itunes:explicit>false</itunes:explicit>
-            <itunes:duration>14521</itunes:duration>
+            <itunes:duration>11279</itunes:duration>
         </item>
     </channel>
 </rss>
