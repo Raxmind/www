@@ -60,7 +60,6 @@
             <itunes:subtitle>аудио</itunes:subtitle>
             <itunes:summary>Запись стрима</itunes:summary>
             <itunes:image href="https://imageup.ru/img143/3927852/picture.jpg"/>
-            <media:thumbnail url="https://imageup.ru/img143/3927852/picture.jpg"/>
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>3:13:11</itunes:duration>
         </item>
