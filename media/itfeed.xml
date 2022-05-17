@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?> <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
-        <lastBuildDate>Sat, 14 May 2022 10:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Sat, 14 May 2022 10:00:00 +0300</lastBuildDate>
         <title><![CDATA[tgpedia]]></title>
         <description><![CDATA[Кошерные записи на бобинах для бояр]]></description>
         <link>https://t.me/tgpedia</link>
@@ -18,7 +18,7 @@
             <title><![CDATA[14.05.2022 (1080p)]]></title>
             <description><![CDATA[Запись стрима]]></description>
             <link>https://t.me/tgpedia</link>
-            <pubDate>Sat, 14 May 2022 10:00:00 +0200</pubDate>
+            <pubDate>Sat, 14 May 2022 10:00:00 +0300</pubDate>
             <enclosure url="https://is.gd/20220514_1080p" length="2093796556" type="video/mp4"/>
             <itunes:title>14.05.2022 (1080p)</itunes:title>
             <itunes:subtitle>1080p</itunes:subtitle>
@@ -30,7 +30,7 @@
             <title><![CDATA[14.05.2022 (720p)]]></title>
             <description><![CDATA[Запись стрима]]></description>
             <link>https://t.me/tgpedia</link>
-            <pubDate>Sat, 14 May 2022 10:00:00 +0200</pubDate>
+            <pubDate>Sat, 14 May 2022 10:00:00 +0300</pubDate>
             <enclosure url="https://is.gd/20220514_720p" length="1138166333" type="video/mp4"/>
             <itunes:title>14.05.2022 (720p)</itunes:title>
             <itunes:subtitle>720p</itunes:subtitle>
@@ -42,7 +42,7 @@
             <title><![CDATA[14.05.2022 (360p)]]></title>
             <description><![CDATA[Запись стрима]]></description>
             <link>https://t.me/tgpedia</link>
-            <pubDate>Sat, 14 May 2022 10:00:00 +0200</pubDate>
+            <pubDate>Sat, 14 May 2022 10:00:00 +0300</pubDate>
             <enclosure url="https://is.gd/20220514_360p" length="515396075" type="video/mp4"/>
             <itunes:title>14.05.2022 (360p)</itunes:title>
             <itunes:subtitle>360p</itunes:subtitle>
@@ -54,7 +54,7 @@
             <title><![CDATA[14.05.2022 (аудио)]]></title>
             <description><![CDATA[Запись стрима]]></description>
             <link>https://t.me/tgpedia</link>
-            <pubDate>Sat, 14 May 2022 10:00:00 +0200</pubDate>
+            <pubDate>Sat, 14 May 2022 10:00:00 +0300</pubDate>
             <enclosure url="https://is.gd/20220514_audio" length="176093659" type="audio/mp4"/>
             <itunes:title>14.05.2022 (аудио)</itunes:title>
             <itunes:subtitle>аудио</itunes:subtitle>
