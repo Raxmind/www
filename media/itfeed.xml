@@ -59,7 +59,6 @@
             <itunes:title>14.05.2022 (аудио)</itunes:title>
             <itunes:subtitle>аудио</itunes:subtitle>
             <itunes:summary>Запись стрима</itunes:summary>
-            <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/2/2a/ITunes_12.2_logo.png"/>
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>3:13:11</itunes:duration>
         </item>
