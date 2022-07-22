@@ -220,13 +220,13 @@
 	@media screen and (max-width: 480px) {
 
 		h1 {
-			font-size: 2em;
+			font-size: 3em;
 			letter-spacing: 0.2em;
 		}
 		
 		p {
-			font-size: 1.3em;
-			margin: 0 0 3em 0;
+			font-size: 1.5em;
+			margin: 0 0 2.5em 0;
 		}
 	}
 
@@ -756,7 +756,7 @@
 			}
 			
 				#main .avatar {
-					margin-bottom: 4em;
+					margin-bottom: 3.5em;
 				}
 
 				#main .avatar:before {
