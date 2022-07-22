@@ -163,7 +163,7 @@
 		}
 
 		a:hover {
-			color: #2e74bd;
+			color: rgba(18, 94, 115, 0.8);
 		}
 
 	strong, b {
@@ -539,7 +539,7 @@
 					}
 
 					ul.icons li a:hover:before {
-						color: #2e74bd;
+						color: rgba(18, 94, 115, 0.8);
 					}
 
 					ul.icons li a:before {
