@@ -730,10 +730,10 @@
 				content: '';
 				display: block;
 				position: absolute;
-				top: 48%;
+				top: 47%;
 				left: -3em;
 				width: calc(100% + 6em);
-				height: 1px;
+				height: 2px;
 				z-index: -1;
 				background: rgba(200, 204, 207, 0.5);
 			}
